@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Md Tahsan Islam" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/hero.png" alt="Md Tahsan Islam" width="100%" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   ·
   <a href="https://linkedin.com/in/tahsan-islam-babun"><strong>LinkedIn</strong></a>
   ·
-  <a href="./cv/Md_Tahsan_Islam_CV.pdf"><strong>CV (PDF)</strong></a>
+  <a href="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/cv/Md_Tahsan_Islam_CV.pdf"><strong>CV (PDF)</strong></a>
   ·
   <a href="mailto:tahsanislam303@gmail.com"><strong>Email</strong></a>
 </p>
@@ -19,14 +19,14 @@ I build products at the intersection of **education**, **AI systems**, and **shi
 Founder of **BabunToo Academy**. Full stack developer with a focus on Flutter, Laravel, RAG pipelines, and interactive experiences. Recent international recognition includes a **Champion** award at Coding Fest 2026 (University of Sydney) and a **Gold Award** at WSDG 2026 (Malaysia).
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/divider.png" width="100%" alt="" />
 </p>
 
 ## International recognition
 
 <p align="center">
-  <img src="./assets/award-sydney.svg" width="49%" alt="Sydney Champion card" />
-  <img src="./assets/award-malaysia.svg" width="49%" alt="Malaysia Gold card" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/award-sydney.png" width="49%" alt="Sydney Champion card" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/award-malaysia.png" width="49%" alt="Malaysia Gold card" />
 </p>
 
 <table>
@@ -34,8 +34,8 @@ Founder of **BabunToo Academy**. Full stack developer with a focus on Flutter, L
     <td width="50%" valign="top">
       <p align="center"><strong>University of Sydney · Australia</strong></p>
       <p align="center">
-        <a href="./assets/codingfest-sydney.png">
-          <img src="./assets/codingfest-sydney.png" alt="Coding Fest 2026 certificate" width="92%" />
+        <a href="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/codingfest-sydney.png">
+          <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/codingfest-sydney.png" alt="Coding Fest 2026 certificate" width="92%" />
         </a>
       </p>
       <p>
@@ -46,8 +46,8 @@ Founder of **BabunToo Academy**. Full stack developer with a focus on Flutter, L
     <td width="50%" valign="top">
       <p align="center"><strong>Multimedia University · Malaysia</strong></p>
       <p align="center">
-        <a href="./assets/wsdg-gold.png">
-          <img src="./assets/wsdg-gold.png" alt="WSDG 2026 Gold Award certificate" width="92%" />
+        <a href="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/wsdg-gold.png">
+          <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/wsdg-gold.png" alt="WSDG 2026 Gold Award certificate" width="92%" />
         </a>
       </p>
       <p>
@@ -73,7 +73,7 @@ Founder of **BabunToo Academy**. Full stack developer with a focus on Flutter, L
 </details>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/divider.png" width="100%" alt="" />
 </p>
 
 ## What I work on
@@ -89,13 +89,13 @@ Founder of **BabunToo Academy**. Full stack developer with a focus on Flutter, L
 </ul>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/divider.png" width="100%" alt="" />
 </p>
 
 ## Selected repositories
 
 <p align="center">
-  <img src="./assets/workboard.svg" alt="Selected repositories board" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/workboard.png" alt="Selected repositories board" width="100%" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ Founder of **BabunToo Academy**. Full stack developer with a focus on Flutter, L
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/divider.png" width="100%" alt="" />
 </p>
 
 ## Toolkit
@@ -127,7 +127,7 @@ Practice     Product ownership · Agile delivery · AI native workflows
 ```
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/assets/divider.png" width="100%" alt="" />
 </p>
 
 ## Education and contact
@@ -140,7 +140,7 @@ Based in **Mymensingh, Bangladesh**. Open to collaboration on EdTech, AI product
   <li>Portfolio · <a href="https://tahsan.babuntooacademy.com">tahsan.babuntooacademy.com</a></li>
   <li>LinkedIn · <a href="https://linkedin.com/in/tahsan-islam-babun">tahsan-islam-babun</a></li>
   <li>Email · <a href="mailto:tahsanislam303@gmail.com">tahsanislam303@gmail.com</a></li>
-  <li>CV · <a href="./cv/Md_Tahsan_Islam_CV.pdf">Download PDF</a></li>
+  <li>CV · <a href="https://raw.githubusercontent.com/Tahsan0619/Tahsan0619/main/cv/Md_Tahsan_Islam_CV.pdf">Download PDF</a></li>
 </ul>
 
 <p align="center">
