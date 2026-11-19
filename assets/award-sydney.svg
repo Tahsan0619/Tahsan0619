@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="Coding Fest 2026 Champion Australia">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1a14"/>
+      <stop offset="100%" stop-color="#122418"/>
+    </linearGradient>
+    <linearGradient id="sgold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#f0e2a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="220" rx="16" fill="url(#sbg)" stroke="#2f5a3f"/>
+  <rect x="18" y="18" width="6" height="184" rx="3" fill="url(#sgold)"/>
+  <text x="40" y="48" fill="#8fb59a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.5">AUSTRALIA · 28 JUL 2026</text>
+  <text x="40" y="88" fill="#f4f7f2" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Champion</text>
+  <text x="40" y="118" fill="#e8d9a0" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="15">Best Project in AI for Education</text>
+  <text x="40" y="148" fill="#b7c9bc" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">Coding Fest 2026 · The University of Sydney</text>
+  <text x="40" y="178" fill="#9eb5a6" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="13">Project: ShikkhAI · School of Computer Science</text>
+  <circle cx="500" cy="48" r="10" fill="#d4af37">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

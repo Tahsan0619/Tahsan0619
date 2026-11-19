@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Selected work">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#101a24"/>
+      <stop offset="100%" stop-color="#0b121a"/>
+    </linearGradient>
+    <linearGradient id="tag" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1faa8a"/>
+      <stop offset="100%" stop-color="#c9a227"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="#070d13"/>
+
+  <!-- row 1 -->
+  <g>
+    <rect x="20" y="20" width="370" height="170" rx="14" fill="url(#card)" stroke="#243748"/>
+    <rect x="20" y="20" width="370" height="4" rx="2" fill="url(#tag)"/>
+    <text x="44" y="62" fill="#8fa3b5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">AI EDUCATION</text>
+    <text x="44" y="98" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="28">ShikkhAI</text>
+    <text x="44" y="128" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">Bloom tools for lesson planning,</text>
+    <text x="44" y="148" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">question analysis, and rubrics.</text>
+  </g>
+  <g>
+    <rect x="415" y="20" width="370" height="170" rx="14" fill="url(#card)" stroke="#243748"/>
+    <rect x="415" y="20" width="370" height="4" rx="2" fill="url(#tag)"/>
+    <text x="439" y="62" fill="#8fa3b5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">STEAM PLATFORM</text>
+    <text x="439" y="98" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="28">GyanQuest</text>
+    <text x="439" y="128" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">Gamified bilingual STEM learning</text>
+    <text x="439" y="148" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">across subjects and devices.</text>
+  </g>
+  <g>
+    <rect x="810" y="20" width="370" height="170" rx="14" fill="url(#card)" stroke="#243748"/>
+    <rect x="810" y="20" width="370" height="4" rx="2" fill="url(#tag)"/>
+    <text x="834" y="62" fill="#8fa3b5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">EDTECH STUDIO</text>
+    <text x="834" y="98" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="28">BabunToo</text>
+    <text x="834" y="128" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">Academy platform with a suite of</text>
+    <text x="834" y="148" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">RAG powered teaching tools.</text>
+  </g>
+
+  <!-- row 2 -->
+  <g>
+    <rect x="20" y="220" width="370" height="170" rx="14" fill="url(#card)" stroke="#243748"/>
+    <rect x="20" y="220" width="370" height="4" rx="2" fill="#2a6f97"/>
+    <text x="44" y="262" fill="#8fa3b5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">SUPER APP</text>
+    <text x="44" y="298" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="28">HillGo</text>
+    <text x="44" y="328" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">Multi platform delivery system for</text>
+    <text x="44" y="348" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">customers, riders, and vendors.</text>
+  </g>
+  <g>
+    <rect x="415" y="220" width="370" height="170" rx="14" fill="url(#card)" stroke="#243748"/>
+    <rect x="415" y="220" width="370" height="4" rx="2" fill="#2a6f97"/>
+    <text x="439" y="262" fill="#8fa3b5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">GAME ENGINE</text>
+    <text x="439" y="298" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="28">Vaelgate</text>
+    <text x="439" y="328" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">Low poly action RPG and dungeon</text>
+    <text x="439" y="348" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">crawler with a city hub.</text>
+  </g>
+  <g>
+    <rect x="810" y="220" width="370" height="170" rx="14" fill="url(#card)" stroke="#243748"/>
+    <rect x="810" y="220" width="370" height="4" rx="2" fill="#2a6f97"/>
+    <text x="834" y="262" fill="#8fa3b5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">BROWSER RACING</text>
+    <text x="834" y="298" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="28">Apex Rush</text>
+    <text x="834" y="328" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">First person open wheel racing</text>
+    <text x="834" y="348" fill="#9db0c1" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14">built with Three.js.</text>
+  </g>
+</svg>
